@@ -36,4 +36,4 @@ Thank you for your interest in our Data Professional Survey Dashboard! 🌟
 
 Happy analyzing! 💻🔍
 
-![Dashboard Preview](link/to/dashboard_preview.png)
+![Dashboard Preview](oursera.org/learn/foundations-data/lecture/ZQCdI/introduction-to-the-course)
