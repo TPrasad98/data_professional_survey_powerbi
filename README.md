@@ -30,7 +30,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Acknowledgements
 
-We would like to extend our heartfelt thanks to **@Alex The Analyst** for his invaluable support and insights throughout the development of this dashboard.
+We would like to extend our heartfelt thanks to **https://github.com/AlexTheAnalyst** for his invaluable support and insights throughout the development of this dashboard.
 
 Thank you for your interest in our Data Professional Survey Dashboard! 🌟
 
