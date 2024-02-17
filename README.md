@@ -16,7 +16,7 @@ This repository contains the code and resources for our Data Professional Survey
 ## How to Use
 
 1. Clone or download the repository to your local machine.
-2. Open the Power BI file (`Data_Professional_Survey_Dashboard.pbix`) using Power BI Desktop.
+2. Open the Power BI file (`https://github.com/TPrasad98/data_professional_survey_powerbi/blob/main/data%20professional%20survey.pbix`) using Power BI Desktop.
 3. Explore the various pages and visualizations to gain insights from the survey data.
 4. Customize the dashboard according to your specific requirements or datasets.
 
